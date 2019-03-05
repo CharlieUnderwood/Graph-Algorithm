@@ -1,5 +1,5 @@
 # Graph-Algorithm
-Introduction to graph algorithms: principle, methodology, application and code example 
+Introduction to graph algorithms: principle, methodology, application and code examples
 
 
 
