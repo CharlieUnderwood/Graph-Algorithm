@@ -5,7 +5,7 @@ Introduction to graph algorithms: principle, methodology, application and code e
 
 # 图算法
 
-图算法介绍：原理、方法、应用和代码示例
+图算法介绍：原理、方法、应用和代码示例如下
 
 
 
