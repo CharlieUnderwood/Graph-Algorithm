@@ -2,7 +2,7 @@
 
 [TOC]
 
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 本章介绍综述中提到的三种算法，我们将从如下几个方面介绍：
 
