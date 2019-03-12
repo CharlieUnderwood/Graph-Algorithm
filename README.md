@@ -12,7 +12,7 @@ Introduction to graph algorithms: principle, methodology, application and code e
 | 模块             | 章节                                                         | 分类 | 作者（Github）                                          | 联系方式         |
 | ---------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------- | ---------------- |
 | 图算法概述       | 图概述<br/>图算法概述                                        |      | [CharlieUnderwood](https://github.com/CharlieUnderwood) | 493478428@qq.com |
-| 图算法基础       | [pagerank](https://github.com/CharlieUnderwood/Graph-Algorithm/blob/master/blog/pagerank.md)<br/>[connected-components]()<br>[triangle-counting]() |      | [CharlieUnderwood](https://github.com/CharlieUnderwood) | 493478428@qq.com |
+| 图算法基础       | [pagerank](https://github.com/CharlieUnderwood/Graph-Algorithm/blob/master/blog/pagerank.pdf)<br/>[connected-components](https://github.com/CharlieUnderwood/Graph-Algorithm/blob/master/blog/connected-components.pdf)<br>[triangle-counting](https://github.com/CharlieUnderwood/Graph-Algorithm/blob/master/blog/triangle-counting.pdf) |      | [CharlieUnderwood](https://github.com/CharlieUnderwood) | 493478428@qq.com |
 | 进阶图算法       |                                                              |      |                                                         |                  |
 | 图算法与机器学习 |                                                              |      |                                                         |                  |
 
